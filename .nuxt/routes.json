@@ -1,0 +1,157 @@
+[
+  {
+    "name": "404___en",
+    "path": "/404",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/404",
+    "_name": "_9095d03a"
+  },
+  {
+    "name": "loading___en",
+    "path": "/loading",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\loading.vue",
+    "chunkName": "pages/loading",
+    "url": "/loading",
+    "_name": "_14014c67"
+  },
+  {
+    "name": "steps___en",
+    "path": "/steps",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\index.vue",
+    "chunkName": "pages/steps/index",
+    "url": "/steps",
+    "_name": "_0c6af2b0"
+  },
+  {
+    "name": "404___de",
+    "path": "/de/404",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/de/404",
+    "_name": "_9095d03a"
+  },
+  {
+    "name": "loading___de",
+    "path": "/de/loading",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\loading.vue",
+    "chunkName": "pages/loading",
+    "url": "/de/loading",
+    "_name": "_14014c67"
+  },
+  {
+    "name": "steps___de",
+    "path": "/de/steps",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\index.vue",
+    "chunkName": "pages/steps/index",
+    "url": "/de/steps",
+    "_name": "_0c6af2b0"
+  },
+  {
+    "name": "404___es",
+    "path": "/es/404",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/es/404",
+    "_name": "_9095d03a"
+  },
+  {
+    "name": "loading___es",
+    "path": "/es/loading",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\loading.vue",
+    "chunkName": "pages/loading",
+    "url": "/es/loading",
+    "_name": "_14014c67"
+  },
+  {
+    "name": "steps___es",
+    "path": "/es/steps",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\index.vue",
+    "chunkName": "pages/steps/index",
+    "url": "/es/steps",
+    "_name": "_0c6af2b0"
+  },
+  {
+    "name": "404___fr",
+    "path": "/fr/404",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/fr/404",
+    "_name": "_9095d03a"
+  },
+  {
+    "name": "loading___fr",
+    "path": "/fr/loading",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\loading.vue",
+    "chunkName": "pages/loading",
+    "url": "/fr/loading",
+    "_name": "_14014c67"
+  },
+  {
+    "name": "steps___fr",
+    "path": "/fr/steps",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\index.vue",
+    "chunkName": "pages/steps/index",
+    "url": "/fr/steps",
+    "_name": "_0c6af2b0"
+  },
+  {
+    "name": "404___it",
+    "path": "/it/404",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/it/404",
+    "_name": "_9095d03a"
+  },
+  {
+    "name": "loading___it",
+    "path": "/it/loading",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\loading.vue",
+    "chunkName": "pages/loading",
+    "url": "/it/loading",
+    "_name": "_14014c67"
+  },
+  {
+    "name": "steps___it",
+    "path": "/it/steps",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\index.vue",
+    "chunkName": "pages/steps/index",
+    "url": "/it/steps",
+    "_name": "_0c6af2b0"
+  },
+  {
+    "name": "steps-id___de",
+    "path": "/de/steps/:id",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\_id.vue",
+    "chunkName": "pages/steps/_id",
+    "_name": "_bb143dd0"
+  },
+  {
+    "name": "steps-id___es",
+    "path": "/es/steps/:id",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\_id.vue",
+    "chunkName": "pages/steps/_id",
+    "_name": "_bb143dd0"
+  },
+  {
+    "name": "steps-id___fr",
+    "path": "/fr/steps/:id",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\_id.vue",
+    "chunkName": "pages/steps/_id",
+    "_name": "_bb143dd0"
+  },
+  {
+    "name": "steps-id___it",
+    "path": "/it/steps/:id",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\_id.vue",
+    "chunkName": "pages/steps/_id",
+    "_name": "_bb143dd0"
+  },
+  {
+    "name": "steps-id___en",
+    "path": "/steps/:id",
+    "component": "D:\\\\a\\\\1\\\\s\\\\pages\\\\steps\\\\_id.vue",
+    "chunkName": "pages/steps/_id",
+    "_name": "_bb143dd0"
+  }
+]

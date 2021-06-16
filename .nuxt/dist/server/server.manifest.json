@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/language-input.js": "components/language-input.js",
+    "components/notification.js": "components/notification.js",
+    "components/pay-later.js": "components/pay-later.js",
+    "components/pricing-card-info.js": "components/pricing-card-info.js",
+    "components/pricing-card.js": "components/pricing-card.js",
+    "components/upgrade-support.js": "components/upgrade-support.js",
+    "lang-de.js.js": "lang-de.js.js",
+    "lang-es.js.js": "lang-es.js.js",
+    "lang-fr.js.js": "lang-fr.js.js",
+    "lang-it.js.js": "lang-it.js.js",
+    "pages/404.js": "pages/404.js",
+    "pages/loading.js": "pages/loading.js",
+    "pages/steps/_id.js": "pages/steps/_id.js",
+    "pages/steps/index.js": "pages/steps/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/language-input.js": "components/language-input.js.map",
+    "components/notification.js": "components/notification.js.map",
+    "components/pay-later.js": "components/pay-later.js.map",
+    "components/pricing-card-info.js": "components/pricing-card-info.js.map",
+    "components/pricing-card.js": "components/pricing-card.js.map",
+    "components/upgrade-support.js": "components/upgrade-support.js.map",
+    "lang-de.js.js": "lang-de.js.js.map",
+    "lang-es.js.js": "lang-es.js.js.map",
+    "lang-fr.js.js": "lang-fr.js.js.map",
+    "lang-it.js.js": "lang-it.js.js.map",
+    "pages/404.js": "pages/404.js.map",
+    "pages/loading.js": "pages/loading.js.map",
+    "pages/steps/_id.js": "pages/steps/_id.js.map",
+    "pages/steps/index.js": "pages/steps/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

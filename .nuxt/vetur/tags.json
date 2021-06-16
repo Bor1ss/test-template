@@ -1,0 +1,53 @@
+{
+  "PayLater": {
+    "description": "Auto imported from components/notifications/PayLater.vue"
+  },
+  "PricingCardInfo": {
+    "description": "Auto imported from components/notifications/PricingCardInfo.vue"
+  },
+  "UpgradeSupport": {
+    "description": "Auto imported from components/notifications/UpgradeSupport.vue"
+  },
+  "Button": {
+    "description": "Auto imported from components/Button.vue"
+  },
+  "Dialog": {
+    "description": "Auto imported from components/Dialog.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LanguageInput": {
+    "description": "Auto imported from components/LanguageInput.vue"
+  },
+  "Layout": {
+    "description": "Auto imported from components/Layout.vue"
+  },
+  "Link": {
+    "description": "Auto imported from components/Link.vue"
+  },
+  "LoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "Notification": {
+    "description": "Auto imported from components/Notification.vue"
+  },
+  "PaymentSection": {
+    "description": "Auto imported from components/PaymentSection.vue"
+  },
+  "PricingCard": {
+    "description": "Auto imported from components/PricingCard.vue"
+  },
+  "Selector": {
+    "description": "Auto imported from components/Selector.vue"
+  },
+  "Stepper": {
+    "description": "Auto imported from components/Stepper.vue"
+  },
+  "SvgRender": {
+    "description": "Auto imported from components/SvgRender.vue"
+  }
+}
